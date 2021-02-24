@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.grid-container {
+background-color: blue;
+}
+
+.grid-item grid-item-1 {
+    background-color: salmon;
+}
+
+.grid-item grid-item-2 {
+    background-color: lightblue;
+}

@@ -1,0 +1,13 @@
+.ubah {
+    color: red;
+    font-size: 20px;
+    border: 2px black solid;
+}
+
+.ubahWarna {
+    border: 2px black solid;
+    border-radius: 5px;
+    background-color: lightblue;
+    color : white;
+    margin-left: 400px;
+}
